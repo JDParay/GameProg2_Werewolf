@@ -1,6 +1,5 @@
 {
   "dependencies": {
-<<<<<<< Updated upstream
     "com.unity.collab-proxy": {
       "version": "2.10.1",
       "depth": 0,
@@ -11,7 +10,6 @@
     "com.unity.editorcoroutines": {
       "version": "1.0.0",
       "depth": 1,
-=======
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,
@@ -58,23 +56,18 @@
     "com.unity.collab-proxy": {
       "version": "2.7.1",
       "depth": 0,
->>>>>>> Stashed changes
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.ext.nunit": {
       "version": "1.0.6",
-<<<<<<< Updated upstream
       "depth": 2,
-=======
       "depth": 1,
->>>>>>> Stashed changes
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
-<<<<<<< Updated upstream
     "com.unity.feature.development": {
       "version": "1.0.1",
       "depth": 0,
@@ -92,11 +85,9 @@
     "com.unity.ide.rider": {
       "version": "3.0.36",
       "depth": 1,
-=======
     "com.unity.ide.rider": {
       "version": "3.0.36",
       "depth": 0,
->>>>>>> Stashed changes
       "source": "registry",
       "dependencies": {
         "com.unity.ext.nunit": "1.0.6"
@@ -105,11 +96,8 @@
     },
     "com.unity.ide.visualstudio": {
       "version": "2.0.22",
-<<<<<<< Updated upstream
       "depth": 1,
-=======
       "depth": 0,
->>>>>>> Stashed changes
       "source": "registry",
       "dependencies": {
         "com.unity.test-framework": "1.1.9"
@@ -118,16 +106,12 @@
     },
     "com.unity.ide.vscode": {
       "version": "1.2.5",
-<<<<<<< Updated upstream
       "depth": 1,
-=======
       "depth": 0,
->>>>>>> Stashed changes
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
-<<<<<<< Updated upstream
     "com.unity.performance.profile-analyzer": {
       "version": "1.2.3",
       "depth": 1,
@@ -137,20 +121,16 @@
     },
     "com.unity.settings-manager": {
       "version": "2.1.0",
-=======
     "com.unity.nuget.newtonsoft-json": {
       "version": "3.2.1",
->>>>>>> Stashed changes
       "depth": 2,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
-<<<<<<< Updated upstream
     "com.unity.test-framework": {
       "version": "1.1.33",
       "depth": 1,
-=======
     "com.unity.purchasing": {
       "version": "4.11.0",
       "depth": 0,
@@ -189,7 +169,6 @@
     "com.unity.test-framework": {
       "version": "1.1.33",
       "depth": 0,
->>>>>>> Stashed changes
       "source": "registry",
       "dependencies": {
         "com.unity.ext.nunit": "1.0.6",
@@ -198,7 +177,6 @@
       },
       "url": "https://packages.unity.com"
     },
-<<<<<<< Updated upstream
     "com.unity.testtools.codecoverage": {
       "version": "1.2.6",
       "depth": 1,
@@ -209,8 +187,6 @@
       },
       "url": "https://packages.unity.com"
     },
-=======
->>>>>>> Stashed changes
     "com.unity.textmeshpro": {
       "version": "3.0.7",
       "depth": 0,
@@ -241,7 +217,6 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
-<<<<<<< Updated upstream
     "com.unity.visualscripting": {
       "version": "1.9.4",
       "depth": 0,
@@ -249,7 +224,8 @@
       "dependencies": {
         "com.unity.ugui": "1.0.0",
         "com.unity.modules.jsonserialize": "1.0.0"
-=======
+      }
+    },
     "com.unity.xr.legacyinputhelpers": {
       "version": "2.1.12",
       "depth": 0,
@@ -257,7 +233,6 @@
       "dependencies": {
         "com.unity.modules.vr": "1.0.0",
         "com.unity.modules.xr": "1.0.0"
->>>>>>> Stashed changes
       },
       "url": "https://packages.unity.com"
     },
@@ -504,5 +479,9 @@
         "com.unity.modules.subsystems": "1.0.0"
       }
     }
+  }
+    }
+  }
+}
   }
 }
